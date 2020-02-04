@@ -8,6 +8,7 @@ Default Audio Input PIN A5 and Connect Ground to Ground
 D9 PIN to 3.3k resistor 
 D9 PIN to 1K resistor
 Connect resistors s-video 
+(https://www.projehocam.com/wp-content/uploads/islemci-tvout.jpg)
 
 /* maaami98 tarafından repo edilmiştir.
  *  D9 pine 3.3k direnc bağlayıp S-video girişine 
