@@ -1,6 +1,6 @@
 # TVOUT_Equaliezer
 Arduino Uno Project
-Youtube video:https://www.youtube.com/watch?v=K4F1NfG02PY&feature=youtu.be
+Youtube video: @https://www.youtube.com/watch?v=K4F1NfG02PY&feature=youtu.be
 Main file Equaliezer.ino
 Default Audio Input PIN A5 and Connect Ground to Ground
 D9 PIN to 3.3k resistor 
